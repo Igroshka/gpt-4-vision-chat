@@ -16,7 +16,7 @@ cache = false
 
 [features]
 # Show the prompt playground
-prompt_playground = true
+prompt_playground = false
 
 # Authorize users to upload files with messages
 multi_modal = true
@@ -29,7 +29,7 @@ multi_modal = true
 
 [UI]
 # Name of the app and chatbot.
-name = "Chatbot"
+name = "Помогатор"
 
 # Show the readme while the conversation is empty.
 show_readme_as_default = true
@@ -47,7 +47,7 @@ default_expand_messages = false
 hide_cot = false
 
 # Link to your github repo. This will add a github button in the UI's header.
-github = "https://github.com/GianfrancoCorrea/gpt-4-vision-chat"
+github = "https://smartlearn.rf.gd/"
 
 # Specify a CSS file that can be used to customize the user interface.
 # The CSS file can be served from the public directory or via an external link.
